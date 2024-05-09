@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Time Table</title>
+    <style>
+        body {
+        
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1La6wvs4ruVbzaqgUcYPxLnRJ5VAEJy3jLyvriH-x8gqV9WPZkaLxZoTRMAuimAf4MLI&usqp=CAU');
+        background-size: cover;}
+    </style>
+    
+</head>
+<body >
+    <h1 align="center">Time Table for IT 1</h1>
+    <table border="1" align="center">
+        <tr>
+            <td align="center" colspan="10">ACROPOLIS INSTITUTE OF TECHNOLOGY AND RESEARCH <br> Department Of Information Technology <br>TIME TABLE:- Jan-june 2024</td>
+        </tr>
+        <tr>
+            <td colspan="2">Class: B.Tech</td>
+            <td>Branch:IT</td>
+            <td>Section:IT1</td>
+            <td>SEM:4</td>
+            <td colspan="2">Room no. 235</td>
+            <td colspan="2">REV.& w.e.f: 00 & 19.02.2024</td>
+        </tr>
+        <tr>
+            <td colspan="4"> Class CO-ordinator:Mahendra Verma(9827340985)</td>
+        </tr>
+        <tr align="center">
+            <th>Day/Time</th>
+            <th>10:30-11:20<hr>I</th>
+            <th>11:20-12:10<hr>II</th>
+            <th>12:10-1:00<hr>III</th>
+            <th>1:00-1:50</th>
+            <th>1:50-2:40<hr>IV</th>
+            <th>2:40-3:30<hr>V</th>
+            <th>3:30-4:15<hr>VI</th>
+            <th>4:15-5:00<hr>VII</th>
+        </tr>
+        <tr align="center">
+            <td><b>MON</b></td>
+            <td>Maths - 3</td>
+            <td>ADC</td>
+            <td>ADA</td>
+            <td rowspan="5" align="center" >L<br>U<br>N<br>C<br>H</td>
+            <td colspan="2">ADA lab B1 <br>Web Designlab B2</td>
+            <td>CA</td>
+            <td>DBMS</td>
+        </tr>
+        <tr align="center">
+            <td><b>TUE</b></td>
+            <td>ADC</td>
+            <td>DBMS</td>
+            <td >Web Design lab B1<br>DBMS Lab B2 </td>
+            <td>Maths - 3</td>
+            <td>CA</td>
+            <td colspan="2">ADA Lab B1 <br>ADC Lab B2 </td>
+        </tr>
+        <tr align="center">
+            <td><b>WED</b></td>
+            <td>CDC</td>
+            <td>CDC</td>
+            <td>ADA</td>
+            <td>Maths - 3</td>
+            <td>ADC</td>
+            <td colspan="2">WEb Design Lab B1<br>ADC Lab B2</td>
+        </tr>
+        <tr align="center">
+            <td><b>THUR</b></td>
+            <td>CA</td>
+            <td colspan="2">DBMS lab B1<BR>Open Source Lab B2</td>
+            <td>DBMS</td>
+            <td>ADA</td>
+            <td colspan="2">Open source lab B1<br>Web Design lab B2</td>
+        </tr>
+        <tr align="center">
+            <td><b>FRI</b.</td>
+            <td>ADC</td>
+            <td>Maths - 3</td>
+            <td>ADA</td>
+            <td>CDC</td>
+            <td>CDC</td>
+            <td>DBMS</td>
+            <td>CA</td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">Subject</td>
+            <td colspan="2" align="center">Faculty</td>
+            <td rowspan="2" align="center">L</td>
+            <td rowspan="2" align="center">T</td>
+            <td rowspan="2" align="center">P</td>
+            <td rowspan="2" colspan="2" align="center">Total</td>
+            
+        </tr>
+        <tr align="center">
+            <td>Code</td>
+            <td>Name</td>
+            <TD>Abvr</TD>
+            <td>Name</td>
+        </tr>
+       
+        <tr>
+            <td>BT-401</td>
+            <td>Maths-3</td>
+            <td>AM(9179117925)</td>
+            <td>Prof. Abhinav Mishra</td>
+            <td align="center">4</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center" colspan="2">4</td>
+        </tr>
+        <tr>
+            <td>IT-402</td>
+            <td>Comp. Architecture</td>
+            <td>VC(9575806709)</td>
+            <td>Prof. Varsha Choudhary</td>
+            <td align="center">4</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center" colspan="2">4</td>
+        </tr>
+        <tr>
+            <td>IT-403</td>
+            <td>Analysis & Designs of Algo.</td>
+            <td>MV(98273409015)</td>
+            <td>Prof. Mahendra Verma</td>
+            <td align="center">4</td>
+            <td align="center">0</td>
+            <td align="center">2</td>
+            <td align="center" colspan="2">6</td>
+        </tr>
+        <tr>
+            <td>IT-404</td>
+            <td>Anolog & Digital Comm.</td>
+            <td>AM(9179117925)</td>
+            <td>Prof. Abhinav Mishra</td>
+            <td align="center">4</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center" colspan="2">4</td>
+        </tr>
+        <tr>
+            <td>IT-405</td>
+            <td>DBMS</td>
+            <td>BC(9827741345)</td>
+            <td>Prof. Brajesh Chaturvedi</td>
+            <td align="center">4</td>
+            <td align="center">0</td>
+            <td align="center">2</td>
+            <td align="center" colspan="2">6</td>
+        </tr>
+        <tr>
+            <td>IT-406</td>
+            <td>Intro. To Web Design</td>
+            <td>DS(7693077841)</td>
+            <td>Prof. Disha Sharma</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">4</td>
+            <td align="center" colspan="2">4</td>
+        </tr>
+        <tr>
+            <td>IT-407</td>
+            <td>Open Source S/w</td>
+            <td>VT(9827741345)</td>
+            <td>Prof. Vishal trivedi</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center">2</td>
+            <td align="center" colspan="2">2</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>CDC</td>
+            <td></td>
+            <td></td>
+            <td align="center">3</td>
+            <td align="center">0</td>
+            <td align="center">0</td>
+            <td align="center" colspan="2">3</td>
+        </tr>
+        <tr>
+            <td align="center" colspan="4">TOTAL</td>
+            <td>23</td>
+            <td>0</td>
+            <td>12</td>
+            <td align="center"colspan="2">35</td>
+        </tr>
+
+    </table>
+    
+</body>
